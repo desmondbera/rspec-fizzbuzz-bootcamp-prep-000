@@ -1,3 +1,3 @@
-def fixbuzz
+def fizzbuzz(num)
   
 end 
